@@ -1,0 +1,25 @@
+{
+  "name": "restaurant",
+  "description": "angular restautant",
+  "main": "public/index.html",
+  "authors": [
+    "zeshi"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "bootstrap": "^3.3.6",
+    "moment": "^2.14.1",
+    "angular-ui-router": "^0.3.1",
+    "angular-animate": "^1.5.8"
+  }
+}
